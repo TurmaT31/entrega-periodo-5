@@ -11,7 +11,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=tZ50dkuzONc)
 
 ### 👥 AeroThrust
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time2.pdf)
+* [📂 Apresentação (Slides)](./sprint-1/AeroThrust%20-%201°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=Ix01DPMys7Y)
 
 ### 👥 Time 3
@@ -30,7 +30,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nk-yiwZU88M)
 
 ### 👥 AeroThrust
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time2.pdf)
+* [📂 Apresentação (Slides)](./sprint-2/AeroThrust%20-%202°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=v4iCaT49QF8)
 ---
 
@@ -40,7 +40,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nQqZdqNFTvA)
 
 * ### 👥 AeroThrust
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time2.pdf)
+* [📂 Apresentação (Slides)](./sprint-3/AeroThrust%20-%203°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=zsDZ9SjfZTw)
 ---
 
