@@ -7,7 +7,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 ## 🚀 Entrega 1: Sprint 1
 
 ### 👥 FoxTrot
-* [📂 Apresentação (Slides)](./sprint-1/Foxtrot-1ºSprint.pdf)
+* [📂 Apresentação (Slides)](./sprint-1/Foxtrot%20-%201ºSprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=tZ50dkuzONc)
 
 ### 👥 AeroThrust
