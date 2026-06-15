@@ -26,7 +26,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 
 ## 🚀 Entrega 2: Sprint 2
 ### 👥 FoxTrot
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time1.pdf)
+* [📂 Apresentação (Slides)](./sprint-2/Foxtrot%20-%202°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nk-yiwZU88M)
 
 ### 👥 AeroThrust
@@ -36,7 +36,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 
 ## 🚀 Entrega 3: Sprint 3
 ### 👥 FoxTrot
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time1.pdf)
+* [📂 Apresentação (Slides)](./sprint-3/Foxtrot%20-%203°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nQqZdqNFTvA)
 
 * ### 👥 AeroThrust
