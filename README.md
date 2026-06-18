@@ -61,7 +61,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 
 * ### 👥 AeroThrust
 * [📂 Apresentação (Slides)](./feira-de-solucoes/API%203%20Feira%20de%20soluções-aero.pdf)
-* [🎬 Vídeo no YouTube]([https://www.youtube.com/watch?v=zsDZ9SjfZTw](https://www.youtube.com/watch?v=VKYIhFL8DBs)
+* [🎬 Vídeo no YouTube]([https://www.youtube.com/watch?v=zsDZ9SjfZTw](https://www.youtube.com/watch?v=VKYIhFL8DBs))
 
 *   ### 👥 Mestres do Hangar
 * [📂 Apresentação (Slides)](./sprint-3/API%20-%203%20Alaska%20261%20sprint3.pdf)
