@@ -73,7 +73,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 
 *  ### 👥 GRIT
   ---
-  ## 🏁 Entrega 4: Feira de Soluções
+  ## 🏁 Entrega Final
 ### 👥 FoxTrot
 
 
