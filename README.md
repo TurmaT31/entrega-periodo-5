@@ -72,4 +72,17 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 *   ### 👥 Mestres do Hangar
 
 *  ### 👥 GRIT
+  ---
+  ## 🏁 Entrega 4: Feira de Soluções
+### 👥 FoxTrot
+
+
+* ### 👥 AeroThrust
+* [📂 Apresentação (Slides)](./sprint-final/Sprint%20FINAL%20-%20aero.pdf)
+
+*   ### 👥 Mestres do Hangar
+* [📂 Apresentação (Slides)](./sprint-final/Alaska261%20SprintFinal-mestres.pdf)
+
+*  ### 👥 GRIT
+
 
