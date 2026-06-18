@@ -18,7 +18,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [📂 Apresentação (Slides)](./sprint-1/API%20-%203%20Alaska%20261%20sprint1.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=1NOUIIWjjD0&t=7s)
 
-### 👥 Time 4
+### 👥 GRIT
 * [📂 Apresentação (Slides)](./sprint-1/Alaska%20Airlines%20261%20S1%20V1.pdf)
 * [🎬 Vídeo no YouTube](https://youtu.be/EgRBlZ_Ak-U)
 
@@ -36,7 +36,8 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
    ### 👥 Mestres do Hangar
 * [📂 Apresentação (Slides)](./sprint-2/API%20-%203%20Alaska%20261%20sprint2.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=JhCruSLQItU)
-* ### 👥 Time 4
+
+* ### 👥 GRIT
 * [📂 Apresentação (Slides)](./sprint-2/Alaska%20Airlines%20261%20S2%20V1.pdf)
 * [🎬 Vídeo no YouTube](https://youtu.be/roWw9ZdCEcw)
 ---
@@ -53,7 +54,9 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 *   ### 👥 Mestres do Hangar
 * [📂 Apresentação (Slides)](./sprint-3/API%20-%203%20Alaska%20261%20sprint3.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nLqwQ7qhPds)
-* ### 👥 Time 4
+
+
+*  ### 👥 GRIT
 * [📂 Apresentação (Slides)](./sprint-3/Alaska%20Airlines%20261%20S3%20V1.2.pdf)
 * [🎬 Vídeo no YouTube](https://youtu.be/qCqJ3EDUMWc)
 ---
@@ -68,5 +71,5 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 
 *   ### 👥 Mestres do Hangar
 
-*   * ### 👥 Time 4
+*  ### 👥 GRIT
 
