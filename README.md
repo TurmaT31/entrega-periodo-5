@@ -15,7 +15,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=Ix01DPMys7Y)
 
 ### 👥 Mestres do Hangar
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time3.pdf)
+* [📂 Apresentação (Slides)](./sprint-1/API%20-%203%20Alaska%20261%20sprint1.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=1NOUIIWjjD0&t=7s)
 
 ### 👥 Time 4
@@ -34,7 +34,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=v4iCaT49QF8)
 
    ### 👥 Mestres do Hangar
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time3.pdf)
+* [📂 Apresentação (Slides)](./sprint-2/API%20-%203%20Alaska%20261%20sprint2.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=JhCruSLQItU)
 ---
 
@@ -48,7 +48,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=zsDZ9SjfZTw)
 
 *   ### 👥 Mestres do Hangar
-* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time3.pdf)
+* [📂 Apresentação (Slides)](./sprint-3/API%20-%203%20Alaska%20261%20sprint3.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nLqwQ7qhPds)
 ---
 ---
