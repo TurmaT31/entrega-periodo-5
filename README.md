@@ -52,8 +52,6 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nLqwQ7qhPds)
 ---
 
----
-
 ## 🏁 Entrega 4: Feira de Soluções
 ### 👥 FoxTrot
 * [📂 Apresentação (Slides)](./sprint-3/Foxtrot%20-%203°Sprint.pdf)
