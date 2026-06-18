@@ -51,11 +51,18 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [📂 Apresentação (Slides)](./sprint-3/API%20-%203%20Alaska%20261%20sprint3.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nLqwQ7qhPds)
 ---
----
-
-*(Os links serão adicionados assim que a sprint for concluída)*
 
 ---
 
 ## 🏁 Entrega 4: Feira de Soluções
-*(Os links serão adicionados assim que a feira for concluída)*
+### 👥 FoxTrot
+* [📂 Apresentação (Slides)](./sprint-3/Foxtrot%20-%203°Sprint.pdf)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nQqZdqNFTvA)
+
+* ### 👥 AeroThrust
+* [📂 Apresentação (Slides)](./feira-de-solucoes/API%203%20Feira%20de%20soluções-aero.pdf)
+* [🎬 Vídeo no YouTube]([https://www.youtube.com/watch?v=zsDZ9SjfZTw](https://www.youtube.com/watch?v=VKYIhFL8DBs)
+
+*   ### 👥 Mestres do Hangar
+* [📂 Apresentação (Slides)](./sprint-3/API%20-%203%20Alaska%20261%20sprint3.pdf)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nLqwQ7qhPds)
