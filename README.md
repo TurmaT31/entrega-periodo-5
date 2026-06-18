@@ -14,9 +14,9 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [📂 Apresentação (Slides)](./sprint-1/AeroThrust%20-%201°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=Ix01DPMys7Y)
 
-### 👥 Time 3
+### 👥 Mestres do Hangar
 * [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time3.pdf)
-* [🎬 Vídeo no YouTube](COLE_O_LINK_DO_YOUTUBE_AQUI)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=1NOUIIWjjD0&t=7s)
 
 ### 👥 Time 4
 * [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time4.pdf)
@@ -32,6 +32,10 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 ### 👥 AeroThrust
 * [📂 Apresentação (Slides)](./sprint-2/AeroThrust%20-%202°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=v4iCaT49QF8)
+
+   ### 👥 Mestres do Hangar
+* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time3.pdf)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=JhCruSLQItU)
 ---
 
 ## 🚀 Entrega 3: Sprint 3
@@ -42,6 +46,11 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * ### 👥 AeroThrust
 * [📂 Apresentação (Slides)](./sprint-3/AeroThrust%20-%203°Sprint.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=zsDZ9SjfZTw)
+
+*   ### 👥 Mestres do Hangar
+* [📂 Apresentação (Slides)](./entrega-1-sprint-1/apresentacao_time3.pdf)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=nLqwQ7qhPds)
+---
 ---
 
 *(Os links serão adicionados assim que a sprint for concluída)*
