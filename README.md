@@ -63,14 +63,16 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 
 ## 🏁 Entrega 4: Feira de Soluções
 ### 👥 FoxTrot
-
+* [📂 Apresentação (Slides)](./feira-de-solucoes/API%203%20Feira%20de%20soluções-aero.pdf)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=aSvRkChbigg)
 
 * ### 👥 AeroThrust
 * [📂 Apresentação (Slides)](./feira-de-solucoes/API%203%20Feira%20de%20soluções-aero.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=VKYIhFL8DBs)
 
 *   ### 👥 Mestres do Hangar
-
+* [📂 Apresentação (Slides)](./feira-de-solucoes/API%203%20Feira%20de%20soluções-aero.pdf)
+* [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=8Z6BS7GQxqU)
 *  ### 👥 GRIT
   ---
   ## 🏁 Entrega Final
