@@ -74,6 +74,7 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [📂 Apresentação (Slides)](./feira-de-solucoes/Alaska261%20Sprintfeira%20mestres.pdf)
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=8Z6BS7GQxqU)
 *  ### 👥 GRIT
+*  (entrega pendente)
   ---
   ## 🏁 Entrega Final
 ### 👥 FoxTrot
