@@ -75,6 +75,6 @@ Este repositório centraliza as apresentações e os links dos vídeos de cada e
 * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=8Z6BS7GQxqU)
 *  ### 👥 GRIT
 *  [📂 Apresentação (Slides)](./feira-de-solucoes/Alaska%20Airlines%20Flight%20261%20FS%20V1.0.pdf)
-*  * [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=qmjc6SbabeM)
+*  [🎬 Vídeo no YouTube](https://www.youtube.com/watch?v=qmjc6SbabeM)
   ---
 
